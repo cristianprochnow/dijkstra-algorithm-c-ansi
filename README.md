@@ -59,9 +59,18 @@ Sendo assim, passando para o gráfico...
 | **1** |   1   |   2   |   3   |   4   |   5   |
 | **2** |   1   |   4   |   5   |       |       |
 
+# Exercício Prático na Aula
+
+![diagrama-aula]
+![folha-lado-a]
+![folha-lado-b]
+
 # Referência de código
 
 🔗 [Repositório com o código base do algoritmo][gu-repo]
 
 [gu-repo]: https://github.com/gustapine/dijkstra-algorithm/
 [diagram]: ./.github/diagram.png
+[diagrama-aula]: ./.github/quadro-aula.jpeg
+[folha-lado-a]: ./.github/folha-lado-a.jpeg
+[folha-lado-b]: ./.github/folha-lado-b.jpeg
